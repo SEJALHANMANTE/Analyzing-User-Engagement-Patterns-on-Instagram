@@ -78,12 +78,12 @@ Automate data updates with Power BI's scheduled refresh feature.
 - Expand the dataset for improved accuracy and reliability.
 - Include competitor analysis for benchmarking Instagram performance.
 - Challenges and Learnings
-- 
+  
 **Challenges**:
   
 - Handling inconsistent location data (e.g., variations in city names and formats).
 - Managing missing or null values in comments data.
-- 
+  
 **Learnings**:
   
 - Gained insights into Instagram's engagement algorithms.
