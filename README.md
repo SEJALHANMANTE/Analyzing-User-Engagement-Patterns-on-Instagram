@@ -72,6 +72,19 @@ Project features and highlights:
 - **EDA**: Identified trends like peak engagement times, top-performing content types, and audience demographics.
 - **Dashboard**: Visualized trends and patterns in a user-friendly manner.
 
+## Future Scope
+- Incorporate predictive analytics to forecast engagement trends.
+Automate data updates with Power BI's scheduled refresh feature.
+- Expand the dataset for improved accuracy and reliability.
+- Include competitor analysis for benchmarking Instagram performance.
+- Challenges and Learnings
+**Challenges**:
+- Handling inconsistent location data (e.g., variations in city names and formats).
+- Managing missing or null values in comments data.
+**Learnings**:
+- Gained insights into Instagram's engagement algorithms.
+- Learned effective dashboard storytelling techniques.
+
 ## Contributers 🙌
 Thanks to these amazing people for contributing to this project:
 
@@ -85,4 +98,6 @@ Thanks to these amazing people for contributing to this project:
 ```bash
 git clone https://github.com/SEJALHANMANTE/Analyzing-User-Engagement-Patterns-on-Instagram
 cd Analyzing-User-Engagement-Patterns-on-Instagram
+
+
 
