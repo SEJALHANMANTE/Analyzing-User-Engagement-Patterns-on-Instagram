@@ -13,6 +13,7 @@ The primary goal of this dashboard is to analyze user engagement on Instagram po
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
+- [Additional Features](#Additional Features)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
